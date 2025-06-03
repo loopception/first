@@ -1,46 +1,50 @@
-🔹 Steps to Submit Using GitHub (Browser Only)
-1️⃣ Fork the Repository
-Visit 👉 https://github.com/loopception/first
+# 🚀 LoopGenesis Submission Guide
 
-Click the “Fork” button (top right)
-➡️ This will create your own copy of the repository.
+Welcome to the official repository for **LoopGenesis**, a beginner-friendly Web Development Workshop & Hackathon by **Loopception**.  
+Follow the steps below to submit your hosted website and complete your task!
 
-2️⃣ Create Your Folder & Upload Files
-Open your forked repository.
+---
 
-Navigate to the Task folder.
+## 🔹 Steps to Submit Using GitHub (
 
-Click “Add file” → “Create new file”
+### 1️⃣ Fork the Repository
+- Visit 👉 [https://github.com/loopception/first](https://github.com/loopception/first)
+- Click the **“Fork”** button (top right).
+> This creates your personal copy of this repository.
 
-Name it like: Your Name/link.txt
-(e.g., Subhankar Sahu/link.txt)
+---
 
-Paste your hosted website link.
+### 2️⃣ Create Your Folder & Upload Files
 
-Click “Commit changes”.
+#### 📂 Inside your forked repository:
+1. Navigate to the **`Task`** folder.
+2. Click **“Add file” → “Create new file”**
+   - Name it like this: `Your Name/link.txt`  
+     _(e.g., `Subhankar Sahu/link.txt`)_
+   - Paste your **hosted website URL** inside.
+   - Click **“Commit changes”**.
 
-📁 Then upload your actual website files:
+#### 🧾 Then upload your project files:
+- Click **“Add file” → “Upload files”**
+- Upload the following:
+  - `index.html`
+  - `style.css`
+  - *(Any additional files or assets you used)*  
+- Click **“Commit changes”** to save.
 
-Click “Add file” → “Upload files”
+---
 
-Upload:
+### 3️⃣ Create a Pull Request
+- Go to your forked repository’s **homepage**.
+- Click **“Contribute” → “Open pull request”**
+- Review your changes.
+- Click **“Create Pull Request”** to submit your work.
 
-index.html
+---
 
-style.css
+### ✅ You're Done! 🎉
+Now wait for your submission to be reviewed and approved by the **Loopception** team.
 
-(any additional assets)
+---
 
-Commit the upload.
-
-3️⃣ Create a Pull Request
-Go to your forked repo’s homepage.
-
-Click “Contribute” → “Open pull request”
-
-Review the changes.
-
-Click “Create Pull Request” to submit.
-
-✅ Done! 🎉
-Now just wait for your submission to be reviewed and approved by the Loopception team!
+📌 **Need help?** Reach out to us on the official WhatsApp group!
