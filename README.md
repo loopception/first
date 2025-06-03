@@ -5,7 +5,7 @@ Follow the steps below to submit your hosted website and complete your task!
 
 ---
 
-## 🔹 Steps to Submit Using GitHub (
+## 🔹 Steps to Submit Using GitHub 
 
 ### 1️⃣ Fork the Repository
 - Visit 👉 [https://github.com/loopception/first](https://github.com/loopception/first)
