@@ -1,29 +1,46 @@
-# first
-🔹 Steps to Submit Using GitHub (Browser Only):
-1) Fork the Repository
-Go to: https://github.com/Loopception/Loop_Genesis_2025
+🔹 Steps to Submit Using GitHub (Browser Only)
+1️⃣ Fork the Repository
+Visit 👉 https://github.com/loopception/first
 
-Click “Fork” (top right) to create your own copy.
+Click the “Fork” button (top right)
+➡️ This will create your own copy of the repository.
 
-2) Create Your Folder & Upload Files
+2️⃣ Create Your Folder & Upload Files
 Open your forked repository.
 
 Navigate to the Task folder.
 
-Click “Add file” > “Create new file”.
+Click “Add file” → “Create new file”
 
-Name it like: Your Name/link.txt (e.g., Subhankar Sahu/link.txt)
+Name it like: Your Name/link.txt
+(e.g., Subhankar Sahu/link.txt)
 
-Paste your hosted website link and click “Commit changes”.
+Paste your hosted website link.
 
-Click “Add file” > “Upload files” to upload your index.html, style.css, etc., inside your folder.
+Click “Commit changes”.
 
-3) Create Pull Request
+📁 Then upload your actual website files:
+
+Click “Add file” → “Upload files”
+
+Upload:
+
+index.html
+
+style.css
+
+(any additional assets)
+
+Commit the upload.
+
+3️⃣ Create a Pull Request
 Go to your forked repo’s homepage.
 
-Click “Contribute” > “Open pull request”.
+Click “Contribute” → “Open pull request”
+
+Review the changes.
 
 Click “Create Pull Request” to submit.
 
-Done! 🎉
-Now wait for your submission to be reviewed and approved by the Loopception team!
+✅ Done! 🎉
+Now just wait for your submission to be reviewed and approved by the Loopception team!
